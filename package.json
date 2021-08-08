@@ -1,0 +1,34 @@
+{
+  "name": "npg-discord-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wumpuspro/npg-discord-button.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discordbuttons",
+    "buttonsbot",
+    "discordjsbuttons",
+    "buttons",
+    "discordjsbuttons",
+    "button",
+    "src",
+    "clickbois"
+  ],
+  "author": "npg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wumpuspro/npg-discord-button/issues"
+  },
+  "homepage": "https://github.com/Wumpuspro/npg-discord-button#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "prettier": "^2.3.2"
+  }
+}
